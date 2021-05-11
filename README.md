@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello!
 I'm fraithor
+I am a 14 year old norwegian Java developer, making JavaPlugins for bukkit / spigot
+
+My favorite IDE is intelliJ
+
+🤔 I’m looking for help with my newest JavaPlugin "FraithorAuctions". If you would like to help, please contact me at "kristoffer@fraithor.com"!
 
 <!--
 **Fraithor/fraithor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
