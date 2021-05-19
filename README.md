@@ -1,7 +1,7 @@
-### Hello!
-I'm fraithor
+### Hello! ❤️
+I'm fraithor 
 
-I am a 14 year old norwegian Java developer, making JavaPlugins for bukkit / spigot
+I am a teenage Java developer, making JavaPlugins for bukkit / spigot
 
 Add me on discord! Fraithor#0001
 
