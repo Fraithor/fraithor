@@ -1,12 +1,11 @@
 ### Hello! ❤️
-I'm fraithor 
+I'm Kristoffer
 
-I am a teenage Java developer, making JavaPlugins for bukkit / spigot
+I am a teenage fullstack developer and entrepreneur 
 
-Add me on discord! Fraithor#0001
+Add me on discord! Kristoffer#9999
 
-My favorite IDE is intelliJ
+Big Americano and hot chocolate lover ☕️ 
 
-🤔 I’m looking for help with my newest JavaPlugin "Fraithorminions". If you would like to help, please contact me at "kristoffer@fraithor.com"!
 
-Visit my website! https://fraithor.com
+Visit my website! https://Vorlus.com
