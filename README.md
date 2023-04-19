@@ -1,11 +1,9 @@
-### Hello! ❤️
+### Hello! ❤
 I'm Kristoffer
 
-I am a fullstack developer and entrepreneur 💻 
+I am a fullstack developer and entrepreneur 💻  
 
-Add me on discord! Kristoffer#6969
+visit our new project at https://ronanhost.com
 
-Big Coffee and hot chocolate lover ☕️ 
-
-
-visit our new project at https://ronanplugins.com
+Business email: kristoffer@rxavion.com
+RonanHost inquries: kristoffer@ronanhost.com
