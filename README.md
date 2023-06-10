@@ -1,5 +1,5 @@
 ### Hello! ❤
-My name is Christopher Haven
+My name is Kristoffer Helle
 
 I am a fullstack developer and entrepreneur 💻  
 
