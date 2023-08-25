@@ -1,9 +1,6 @@
-### Hello! ❤
-My name is Kristoffer Helle
+### Kristoffer Nerskogen
+My name is Kristoffer Nerskogen Helle
 
-I am a fullstack developer and entrepreneur 💻  
+I am a backend and iOS swift developer
 
-visit our new project at https://ronanhost.com
-
-Business email: kristoffer.helle@elektroimportoren.no
-RonanHost inquries: kristoffer@ronanhost.com
+Business email: kristoffer@nerskogen.com
