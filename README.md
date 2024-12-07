@@ -1,6 +1,8 @@
 ### Kristoffer Nerskogen
 My name is Kristoffer Nerskogen Helle
 
-I am a backend and iOS swift developer
+I am a fullstack developer
+
+Portfolio: https://nerskogen.com
 
 Business email: kristoffer@nerskogen.com
